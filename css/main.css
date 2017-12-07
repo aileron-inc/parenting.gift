@@ -283,7 +283,10 @@ p.paragraph {
 }
 
 .supporting-company {
-  height: 50px;
+  display: block;
+  height: 100px;
+  width: 100%;
   background-size: contain;
   background-repeat: no-repeat;
+  background-position: 50% 50%;
 }
